@@ -8,8 +8,6 @@ header {
     flex-direction: row;
     padding: 20px;
     justify-content: space-between;
-
-   
 }
 header ul{
     list-style: none;
